@@ -1,0 +1,11 @@
+v1.13:
+https://www.skyrc.com/help/download/charger/B6mini/firmware/B6mini_V1_13.rar
+
+v1.14:
+https://www.skyrc.com/help/download/charger/Calibration/B6mini_Upgrade_V1.14_Add_Calibration.rar
+
+v1.19:
+https://www.skyrc.com/download/B6mini_Firmware_Update_V1.19.zip
+
+v1.20:
+https://www.skyrc.com/download/B6mini_Firmware_Update_V1.20.zip
